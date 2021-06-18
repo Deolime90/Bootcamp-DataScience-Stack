@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/felipesantana/dados/bootcamp/notebooks/mlruns/1/53da4801e02e467f9d90e9f2c751099e/artifacts
+end_time: 1623967842936
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 53da4801e02e467f9d90e9f2c751099e
+run_uuid: 53da4801e02e467f9d90e9f2c751099e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1623967842864
+status: 3
+tags: []
+user_id: felipesantana
